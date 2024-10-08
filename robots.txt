@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://befizojeloe.pages.dev/sitemap.xml
